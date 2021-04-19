@@ -1,0 +1,12 @@
+февр. 28, 2021 2:12:09 ПП com.company.StartCommand execute
+INFO: Старт
+февр. 28, 2021 2:12:09 ПП com.company.StopCommand execute
+INFO: Стоп
+февр. 28, 2021 2:12:09 ПП com.company.ResetCommand execute
+INFO: Рестарт
+мар. 25, 2021 10:37:19 ДП com.company.StartCommand execute
+INFO: Старт
+мар. 25, 2021 10:37:19 ДП com.company.StopCommand execute
+INFO: Стоп
+мар. 25, 2021 10:37:19 ДП com.company.ResetCommand execute
+INFO: Рестарт
